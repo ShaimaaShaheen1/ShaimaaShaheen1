@@ -32,10 +32,10 @@
 ---
 
 ## 🧠 What I Do
-- 🤖 **AI & Machine Learning** — Building and training models for biomedical and image-based applications.  
-- 💉 **Biomedical Systems** — Designing embedded systems simulations (e.g., heart rate sensors, incubator controllers, and smart monitoring systems).  
-- 💡 **Signal Processing & Data Analysis** — Applying Python and MATLAB for filtering, HRV analysis, and data visualization.  
-- 🌐 **Software Development** — Developing smart applications and GUIs using PyQt5, Flask, and ReactJS.
+-  **AI & Machine Learning** — Building and training models for biomedical and image-based applications.  
+-  **Biomedical Systems** — Designing embedded systems simulations (e.g., heart rate sensors, incubator controllers, and smart monitoring systems).  
+-  **Signal Processing & Data Analysis** — Applying Python and MATLAB for filtering, HRV analysis, and data visualization.  
+-  **Software Development** — Developing smart applications and GUIs using PyQt5, Flask, and ReactJS.
 
 ---
 
