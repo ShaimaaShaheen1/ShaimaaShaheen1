@@ -1,6 +1,6 @@
 
 <!-- Header Section -->
-<h1 align="center">Hi there! 👋 I'm Shaimaa Kamel</h1>
+<h1 align="center">Hi there! 👋 I'm Shaimaa Shaheen</h1>
 <h3 align="center"> Biomedical Engineering Student | AI & Computer vision Engineer |  Passionate about Smart Healthcare Technology</h3>
 
 <p align="center">
