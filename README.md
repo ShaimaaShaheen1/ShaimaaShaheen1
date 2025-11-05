@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shaimaa-kamel-87956b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaimaa-kamel" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaimaa-Shaheen" height="30" width="40" />
   </a>
   <a href="mailto:shiamaa.shahen03@eng-st.cu.edu.eg">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40"/>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 -  **AI & Machine Learning** — Building and training models for biomedical and image-based applications.  
 -  **Biomedical Systems** — Designing embedded systems simulations (e.g., heart rate sensors, incubator controllers, and smart monitoring systems).  
 -  **Signal Processing & Data Analysis** — Applying Python and MATLAB for filtering, HRV analysis, and data visualization.  
